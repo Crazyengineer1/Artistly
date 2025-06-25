@@ -1,4 +1,3 @@
-// app/artists/page.js
 import { Suspense } from 'react';
 import ArtistsClient from './ArtistsClient';
 
