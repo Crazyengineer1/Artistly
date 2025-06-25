@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Artist1",
+        "category": "Dancers",
+        "location": "Mumbai",
+        "fee": "₹25,000 – ₹40,000"
+    },
+    {
+        "id": 2,
+        "name": "Artist2",
+        "category": "Singers",
+        "location": "Delhi",
+        "fee": "₹30,000 – ₹50,000"
+    },
+    {
+        "id": 3,
+        "name": "Artist3",
+        "category": "Speakers",
+        "location": "Bangalore",
+        "fee": "₹20,000 – ₹35,000"
+    },
+    {
+        "id": 4,
+        "name": "Artist4",
+        "category": "DJs",
+        "location": "Jhajjar",
+        "fee": "₹40,000 – ₹70,000"
+    },
+    {
+        "id": 5,
+        "name": "Artist5",
+        "category": "Singer",
+        "location": "Panipat",
+        "fee": "₹60,000 – ₹70,000"
+    },
+    {
+        "id": 6,
+        "name": "Artist6",
+        "category": "Dancer",
+        "location": "Canada",
+        "fee": "₹40,000 – ₹50,000"
+    },
+    {
+        "id": 7,
+        "name": "Artist7",
+        "category": "Speaker",
+        "location": "Uttar pradesh",
+        "fee": "₹30,000 – ₹40,000"
+    },
+    {
+        "id": 8,
+        "name": "Artist8",
+        "category": "Singer",
+        "location": "Sonipat",
+        "fee": "₹60,000 – ₹70,000"
+    }
+]
